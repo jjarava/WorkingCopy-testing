@@ -1,5 +1,5 @@
 - Some sample items in the file
-- other items "with quotes" that look fine 
+- other items “with quotes” that look fine 
 
 File edited with Editorial, saved in Dropbox. No fancy smart quotes app used anywhere
 
